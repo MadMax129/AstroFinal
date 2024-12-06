@@ -1,5 +1,5 @@
 # ASTO170 Final Project
-> Simulate and observe orbital machenics
+> Simulate and observe orbital mechanics
 ![Demo of Orbital Simulation](demo.png)
 
 # Run
